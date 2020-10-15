@@ -17,7 +17,7 @@ print('고양이는 너무 귀여워요!!!')
 ![바탕화면1](https://user-images.githubusercontent.com/28764376/96080033-207e7e00-0ef1-11eb-847c-0b2c5d6950f7.jpg)
 ### Reference
 *****************
-[크집사링크: http://naver.com]
+[http://naver.com, "링크"]
 ### Issue
 *****************
 * Issue 1
